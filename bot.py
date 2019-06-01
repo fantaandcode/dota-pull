@@ -5,7 +5,7 @@ import datetime
 
 from calls import matchinfo as mi
 
-TOKEN = 'NTgxOTE0MDIxNzAwMTczODI1.XOmL6g.S6ufMhHicDnoGiw2SmsEIE7GQw4'
+TOKEN = 'INSERT_HERE'
 
 client = commands.Bot(command_prefix = '.')
 
